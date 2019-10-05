@@ -1,0 +1,421 @@
+SC_Group_ID,SC_Group_Desc,SC_GroupCommod_ID,SC_GroupCommod_Desc,SC_Geography_ID,SortOrder,SC_GeographyIndented_Desc,SC_Commodity_ID,SC_Commodity_Desc,SC_Attribute_ID,SC_Attribute_Desc,SC_Unit_ID,SC_Unit_Desc,Year_ID,SC_Frequency_ID,SC_Frequency_Desc,Timeperiod_ID,Timeperiod_Desc,Amount
+2,Supply and use,20,Sorghum,1,0.8,United States,4,Sorghum,14,"Exports, market year",1,Million bushels,1975,3,Annual,31,MY Sep-Aug,232.161
+2,Supply and use,20,Sorghum,1,0.8,United States,4,Sorghum,14,"Exports, market year",1,Million bushels,1976,3,Annual,31,MY Sep-Aug,253.915
+2,Supply and use,20,Sorghum,1,0.8,United States,4,Sorghum,14,"Exports, market year",1,Million bushels,1977,3,Annual,31,MY Sep-Aug,222.842
+2,Supply and use,20,Sorghum,1,0.8,United States,4,Sorghum,14,"Exports, market year",1,Million bushels,1978,3,Annual,31,MY Sep-Aug,190.092
+2,Supply and use,20,Sorghum,1,0.8,United States,4,Sorghum,14,"Exports, market year",1,Million bushels,1979,3,Annual,31,MY Sep-Aug,329.672
+2,Supply and use,20,Sorghum,1,0.8,United States,4,Sorghum,14,"Exports, market year",1,Million bushels,1980,3,Annual,31,MY Sep-Aug,293.159
+2,Supply and use,20,Sorghum,1,0.8,United States,4,Sorghum,14,"Exports, market year",1,Million bushels,1981,3,Annual,31,MY Sep-Aug,259.613
+2,Supply and use,20,Sorghum,1,0.8,United States,4,Sorghum,14,"Exports, market year",1,Million bushels,1982,3,Annual,31,MY Sep-Aug,210.054
+2,Supply and use,20,Sorghum,1,0.8,United States,4,Sorghum,14,"Exports, market year",1,Million bushels,1983,3,Annual,31,MY Sep-Aug,244.479
+2,Supply and use,20,Sorghum,1,0.8,United States,4,Sorghum,14,"Exports, market year",1,Million bushels,1984,3,Annual,31,MY Sep-Aug,296.905
+2,Supply and use,20,Sorghum,1,0.8,United States,4,Sorghum,14,"Exports, market year",1,Million bushels,1985,3,Annual,31,MY Sep-Aug,177.988
+2,Supply and use,20,Sorghum,1,0.8,United States,4,Sorghum,14,"Exports, market year",1,Million bushels,1986,3,Annual,31,MY Sep-Aug,198.327
+2,Supply and use,20,Sorghum,1,0.8,United States,4,Sorghum,14,"Exports, market year",1,Million bushels,1987,3,Annual,31,MY Sep-Aug,231.583
+2,Supply and use,20,Sorghum,1,0.8,United States,4,Sorghum,14,"Exports, market year",1,Million bushels,1988,3,Annual,31,MY Sep-Aug,310.185
+2,Supply and use,20,Sorghum,1,0.8,United States,4,Sorghum,14,"Exports, market year",1,Million bushels,1989,3,Annual,31,MY Sep-Aug,307.069
+2,Supply and use,20,Sorghum,1,0.8,United States,4,Sorghum,14,"Exports, market year",1,Million bushels,1990,3,Annual,31,MY Sep-Aug,232.803
+2,Supply and use,20,Sorghum,1,0.8,United States,4,Sorghum,14,"Exports, market year",1,Million bushels,1991,3,Annual,31,MY Sep-Aug,291.434
+2,Supply and use,20,Sorghum,1,0.8,United States,4,Sorghum,14,"Exports, market year",1,Million bushels,1992,3,Annual,31,MY Sep-Aug,277.1
+2,Supply and use,20,Sorghum,1,0.8,United States,4,Sorghum,14,"Exports, market year",1,Million bushels,1993,3,Annual,31,MY Sep-Aug,201.568
+2,Supply and use,20,Sorghum,1,0.8,United States,4,Sorghum,14,"Exports, market year",1,Million bushels,1994,3,Annual,31,MY Sep-Aug,222.688
+2,Supply and use,20,Sorghum,1,0.8,United States,4,Sorghum,14,"Exports, market year",1,Million bushels,1995,3,Annual,31,MY Sep-Aug,197.822
+2,Supply and use,20,Sorghum,1,0.8,United States,4,Sorghum,14,"Exports, market year",1,Million bushels,1996,3,Annual,31,MY Sep-Aug,205.374
+2,Supply and use,20,Sorghum,1,0.8,United States,4,Sorghum,14,"Exports, market year",1,Million bushels,1997,3,Annual,31,MY Sep-Aug,212.083
+2,Supply and use,20,Sorghum,1,0.8,United States,4,Sorghum,14,"Exports, market year",1,Million bushels,1998,3,Annual,31,MY Sep-Aug,196.69
+2,Supply and use,20,Sorghum,1,0.8,United States,4,Sorghum,14,"Exports, market year",1,Million bushels,1999,3,Annual,31,MY Sep-Aug,255.261
+2,Supply and use,20,Sorghum,1,0.8,United States,4,Sorghum,14,"Exports, market year",1,Million bushels,2000,3,Annual,31,MY Sep-Aug,236.582
+2,Supply and use,20,Sorghum,1,0.8,United States,4,Sorghum,14,"Exports, market year",1,Million bushels,2001,3,Annual,31,MY Sep-Aug,241.815
+2,Supply and use,20,Sorghum,1,0.8,United States,4,Sorghum,14,"Exports, market year",1,Million bushels,2002,3,Annual,31,MY Sep-Aug,184.298
+2,Supply and use,20,Sorghum,1,0.8,United States,4,Sorghum,14,"Exports, market year",1,Million bushels,2003,3,Annual,31,MY Sep-Aug,198.773
+2,Supply and use,20,Sorghum,1,0.8,United States,4,Sorghum,14,"Exports, market year",1,Million bushels,2004,3,Annual,31,MY Sep-Aug,184.043
+2,Supply and use,20,Sorghum,1,0.8,United States,4,Sorghum,14,"Exports, market year",1,Million bushels,2005,3,Annual,31,MY Sep-Aug,194.314
+2,Supply and use,20,Sorghum,1,0.8,United States,4,Sorghum,14,"Exports, market year",1,Million bushels,2006,3,Annual,31,MY Sep-Aug,152.589
+2,Supply and use,20,Sorghum,1,0.8,United States,4,Sorghum,14,"Exports, market year",1,Million bushels,2007,3,Annual,31,MY Sep-Aug,276.74
+2,Supply and use,20,Sorghum,1,0.8,United States,4,Sorghum,14,"Exports, market year",1,Million bushels,2008,3,Annual,31,MY Sep-Aug,142.988
+2,Supply and use,20,Sorghum,1,0.8,United States,4,Sorghum,14,"Exports, market year",1,Million bushels,2009,3,Annual,31,MY Sep-Aug,164.133
+2,Supply and use,20,Sorghum,1,0.8,United States,4,Sorghum,14,"Exports, market year",1,Million bushels,2010,3,Annual,31,MY Sep-Aug,151.554
+2,Supply and use,20,Sorghum,1,0.8,United States,4,Sorghum,14,"Exports, market year",1,Million bushels,2011,3,Annual,31,MY Sep-Aug,63.41
+2,Supply and use,20,Sorghum,1,0.8,United States,4,Sorghum,14,"Exports, market year",1,Million bushels,2012,3,Annual,31,MY Sep-Aug,76.296
+2,Supply and use,20,Sorghum,1,0.8,United States,4,Sorghum,14,"Exports, market year",1,Million bushels,2013,3,Annual,31,MY Sep-Aug,210.982
+2,Supply and use,20,Sorghum,1,0.8,United States,4,Sorghum,14,"Exports, market year",1,Million bushels,2014,3,Annual,31,MY Sep-Aug,351.749
+2,Supply and use,20,Sorghum,1,0.8,United States,4,Sorghum,14,"Exports, market year",1,Million bushels,2015,3,Annual,31,MY Sep-Aug,341.845
+2,Supply and use,20,Sorghum,1,0.8,United States,4,Sorghum,14,"Exports, market year",1,Million bushels,2016,3,Annual,31,MY Sep-Aug,237.797
+2,Supply and use,20,Sorghum,1,0.8,United States,4,Sorghum,14,"Exports, market year",1,Million bushels,2017,3,Annual,31,MY Sep-Aug,200.354
+2,Supply and use,20,Sorghum,1,0.8,United States,4,Sorghum,14,"Exports, market year",1,Million bushels,2018,3,Annual,31,MY Sep-Aug,90
+2,Supply and use,20,Sorghum,1,0.8,United States,4,Sorghum,14,"Exports, market year",1,Million bushels,2019,3,Annual,31,MY Sep-Aug,100
+2,Supply and use,9,Barley,1,0.8,United States,1,Barley,14,"Exports, market year",1,Million bushels,1975,3,Annual,19,MY Jun-May,22.801
+2,Supply and use,9,Barley,1,0.8,United States,1,Barley,14,"Exports, market year",1,Million bushels,1976,3,Annual,19,MY Jun-May,64.788
+2,Supply and use,9,Barley,1,0.8,United States,1,Barley,14,"Exports, market year",1,Million bushels,1977,3,Annual,19,MY Jun-May,55.497
+2,Supply and use,9,Barley,1,0.8,United States,1,Barley,14,"Exports, market year",1,Million bushels,1978,3,Annual,19,MY Jun-May,24.649
+2,Supply and use,9,Barley,1,0.8,United States,1,Barley,14,"Exports, market year",1,Million bushels,1979,3,Annual,19,MY Jun-May,52.82
+2,Supply and use,9,Barley,1,0.8,United States,1,Barley,14,"Exports, market year",1,Million bushels,1980,3,Annual,19,MY Jun-May,75.66
+2,Supply and use,9,Barley,1,0.8,United States,1,Barley,14,"Exports, market year",1,Million bushels,1981,3,Annual,19,MY Jun-May,98.382
+2,Supply and use,9,Barley,1,0.8,United States,1,Barley,14,"Exports, market year",1,Million bushels,1982,3,Annual,19,MY Jun-May,44.17
+2,Supply and use,9,Barley,1,0.8,United States,1,Barley,14,"Exports, market year",1,Million bushels,1983,3,Annual,19,MY Jun-May,88.818
+2,Supply and use,9,Barley,1,0.8,United States,1,Barley,14,"Exports, market year",1,Million bushels,1984,3,Annual,19,MY Jun-May,71.655
+2,Supply and use,9,Barley,1,0.8,United States,1,Barley,14,"Exports, market year",1,Million bushels,1985,3,Annual,19,MY Jun-May,19.71
+2,Supply and use,9,Barley,1,0.8,United States,1,Barley,14,"Exports, market year",1,Million bushels,1986,3,Annual,19,MY Jun-May,133.617
+2,Supply and use,9,Barley,1,0.8,United States,1,Barley,14,"Exports, market year",1,Million bushels,1987,3,Annual,19,MY Jun-May,120.979
+2,Supply and use,9,Barley,1,0.8,United States,1,Barley,14,"Exports, market year",1,Million bushels,1988,3,Annual,19,MY Jun-May,79.33
+2,Supply and use,9,Barley,1,0.8,United States,1,Barley,14,"Exports, market year",1,Million bushels,1989,3,Annual,19,MY Jun-May,88.956
+2,Supply and use,9,Barley,1,0.8,United States,1,Barley,14,"Exports, market year",1,Million bushels,1990,3,Annual,19,MY Jun-May,79.882
+2,Supply and use,9,Barley,1,0.8,United States,1,Barley,14,"Exports, market year",1,Million bushels,1991,3,Annual,19,MY Jun-May,94.545
+2,Supply and use,9,Barley,1,0.8,United States,1,Barley,14,"Exports, market year",1,Million bushels,1992,3,Annual,19,MY Jun-May,80.291
+2,Supply and use,9,Barley,1,0.8,United States,1,Barley,14,"Exports, market year",1,Million bushels,1993,3,Annual,19,MY Jun-May,66.058
+2,Supply and use,9,Barley,1,0.8,United States,1,Barley,14,"Exports, market year",1,Million bushels,1994,3,Annual,19,MY Jun-May,66.24
+2,Supply and use,9,Barley,1,0.8,United States,1,Barley,14,"Exports, market year",1,Million bushels,1995,3,Annual,19,MY Jun-May,62.4
+2,Supply and use,9,Barley,1,0.8,United States,1,Barley,14,"Exports, market year",1,Million bushels,1996,3,Annual,19,MY Jun-May,30.824
+2,Supply and use,9,Barley,1,0.8,United States,1,Barley,14,"Exports, market year",1,Million bushels,1997,3,Annual,19,MY Jun-May,74.378
+2,Supply and use,9,Barley,1,0.8,United States,1,Barley,14,"Exports, market year",1,Million bushels,1998,3,Annual,19,MY Jun-May,28.529
+2,Supply and use,9,Barley,1,0.8,United States,1,Barley,14,"Exports, market year",1,Million bushels,1999,3,Annual,19,MY Jun-May,28.172
+2,Supply and use,9,Barley,1,0.8,United States,1,Barley,14,"Exports, market year",1,Million bushels,2000,3,Annual,19,MY Jun-May,57.775
+2,Supply and use,9,Barley,1,0.8,United States,1,Barley,14,"Exports, market year",1,Million bushels,2001,3,Annual,19,MY Jun-May,26.408
+2,Supply and use,9,Barley,1,0.8,United States,1,Barley,14,"Exports, market year",1,Million bushels,2002,3,Annual,19,MY Jun-May,30.256
+2,Supply and use,9,Barley,1,0.8,United States,1,Barley,14,"Exports, market year",1,Million bushels,2003,3,Annual,19,MY Jun-May,18.787
+2,Supply and use,9,Barley,1,0.8,United States,1,Barley,14,"Exports, market year",1,Million bushels,2004,3,Annual,19,MY Jun-May,23.25
+2,Supply and use,9,Barley,1,0.8,United States,1,Barley,14,"Exports, market year",1,Million bushels,2005,3,Annual,19,MY Jun-May,27.813
+2,Supply and use,9,Barley,1,0.8,United States,1,Barley,14,"Exports, market year",1,Million bushels,2006,3,Annual,19,MY Jun-May,20.259
+2,Supply and use,9,Barley,1,0.8,United States,1,Barley,14,"Exports, market year",1,Million bushels,2007,3,Annual,19,MY Jun-May,41.424
+2,Supply and use,9,Barley,1,0.8,United States,1,Barley,14,"Exports, market year",1,Million bushels,2008,3,Annual,19,MY Jun-May,13.21
+2,Supply and use,9,Barley,1,0.8,United States,1,Barley,14,"Exports, market year",1,Million bushels,2009,3,Annual,19,MY Jun-May,5.661
+2,Supply and use,9,Barley,1,0.8,United States,1,Barley,14,"Exports, market year",1,Million bushels,2010,3,Annual,19,MY Jun-May,7.578
+2,Supply and use,9,Barley,1,0.8,United States,1,Barley,14,"Exports, market year",1,Million bushels,2011,3,Annual,19,MY Jun-May,8.845
+2,Supply and use,9,Barley,1,0.8,United States,1,Barley,14,"Exports, market year",1,Million bushels,2012,3,Annual,19,MY Jun-May,8.857
+2,Supply and use,9,Barley,1,0.8,United States,1,Barley,14,"Exports, market year",1,Million bushels,2013,3,Annual,19,MY Jun-May,14.273
+2,Supply and use,9,Barley,1,0.8,United States,1,Barley,14,"Exports, market year",1,Million bushels,2014,3,Annual,19,MY Jun-May,14.299
+2,Supply and use,9,Barley,1,0.8,United States,1,Barley,14,"Exports, market year",1,Million bushels,2015,3,Annual,19,MY Jun-May,10.801
+2,Supply and use,9,Barley,1,0.8,United States,1,Barley,14,"Exports, market year",1,Million bushels,2016,3,Annual,19,MY Jun-May,4.375
+2,Supply and use,9,Barley,1,0.8,United States,1,Barley,14,"Exports, market year",1,Million bushels,2017,3,Annual,19,MY Jun-May,5.085
+2,Supply and use,9,Barley,1,0.8,United States,1,Barley,14,"Exports, market year",1,Million bushels,2018,3,Annual,19,MY Jun-May,4.917
+2,Supply and use,9,Barley,1,0.8,United States,1,Barley,14,"Exports, market year",1,Million bushels,2019,3,Annual,19,MY Jun-May,3
+2,Supply and use,17,Oats,1,0.8,United States,3,Oats,14,"Exports, market year",1,Million bushels,1975,3,Annual,19,MY Jun-May,12.277
+2,Supply and use,17,Oats,1,0.8,United States,3,Oats,14,"Exports, market year",1,Million bushels,1976,3,Annual,19,MY Jun-May,8.295
+2,Supply and use,17,Oats,1,0.8,United States,3,Oats,14,"Exports, market year",1,Million bushels,1977,3,Annual,19,MY Jun-May,10.003
+2,Supply and use,17,Oats,1,0.8,United States,3,Oats,14,"Exports, market year",1,Million bushels,1978,3,Annual,19,MY Jun-May,10.34
+2,Supply and use,17,Oats,1,0.8,United States,3,Oats,14,"Exports, market year",1,Million bushels,1979,3,Annual,19,MY Jun-May,2.758
+2,Supply and use,17,Oats,1,0.8,United States,3,Oats,14,"Exports, market year",1,Million bushels,1980,3,Annual,19,MY Jun-May,8.84
+2,Supply and use,17,Oats,1,0.8,United States,3,Oats,14,"Exports, market year",1,Million bushels,1981,3,Annual,19,MY Jun-May,2.687
+2,Supply and use,17,Oats,1,0.8,United States,3,Oats,14,"Exports, market year",1,Million bushels,1982,3,Annual,19,MY Jun-May,0.751
+2,Supply and use,17,Oats,1,0.8,United States,3,Oats,14,"Exports, market year",1,Million bushels,1983,3,Annual,19,MY Jun-May,0.942
+2,Supply and use,17,Oats,1,0.8,United States,3,Oats,14,"Exports, market year",1,Million bushels,1984,3,Annual,19,MY Jun-May,0.495
+2,Supply and use,17,Oats,1,0.8,United States,3,Oats,14,"Exports, market year",1,Million bushels,1985,3,Annual,19,MY Jun-May,1.236
+2,Supply and use,17,Oats,1,0.8,United States,3,Oats,14,"Exports, market year",1,Million bushels,1986,3,Annual,19,MY Jun-May,0.922
+2,Supply and use,17,Oats,1,0.8,United States,3,Oats,14,"Exports, market year",1,Million bushels,1987,3,Annual,19,MY Jun-May,0.501
+2,Supply and use,17,Oats,1,0.8,United States,3,Oats,14,"Exports, market year",1,Million bushels,1988,3,Annual,19,MY Jun-May,0.578
+2,Supply and use,17,Oats,1,0.8,United States,3,Oats,14,"Exports, market year",1,Million bushels,1989,3,Annual,19,MY Jun-May,0.827
+2,Supply and use,17,Oats,1,0.8,United States,3,Oats,14,"Exports, market year",1,Million bushels,1990,3,Annual,19,MY Jun-May,0.61
+2,Supply and use,17,Oats,1,0.8,United States,3,Oats,14,"Exports, market year",1,Million bushels,1991,3,Annual,19,MY Jun-May,1.903
+2,Supply and use,17,Oats,1,0.8,United States,3,Oats,14,"Exports, market year",1,Million bushels,1992,3,Annual,19,MY Jun-May,6.019
+2,Supply and use,17,Oats,1,0.8,United States,3,Oats,14,"Exports, market year",1,Million bushels,1993,3,Annual,19,MY Jun-May,3.002
+2,Supply and use,17,Oats,1,0.8,United States,3,Oats,14,"Exports, market year",1,Million bushels,1994,3,Annual,19,MY Jun-May,0.989
+2,Supply and use,17,Oats,1,0.8,United States,3,Oats,14,"Exports, market year",1,Million bushels,1995,3,Annual,19,MY Jun-May,2.071
+2,Supply and use,17,Oats,1,0.8,United States,3,Oats,14,"Exports, market year",1,Million bushels,1996,3,Annual,19,MY Jun-May,2.549
+2,Supply and use,17,Oats,1,0.8,United States,3,Oats,14,"Exports, market year",1,Million bushels,1997,3,Annual,19,MY Jun-May,2.122
+2,Supply and use,17,Oats,1,0.8,United States,3,Oats,14,"Exports, market year",1,Million bushels,1998,3,Annual,19,MY Jun-May,1.735
+2,Supply and use,17,Oats,1,0.8,United States,3,Oats,14,"Exports, market year",1,Million bushels,1999,3,Annual,19,MY Jun-May,1.79
+2,Supply and use,17,Oats,1,0.8,United States,3,Oats,14,"Exports, market year",1,Million bushels,2000,3,Annual,19,MY Jun-May,1.704
+2,Supply and use,17,Oats,1,0.8,United States,3,Oats,14,"Exports, market year",1,Million bushels,2001,3,Annual,19,MY Jun-May,2.818
+2,Supply and use,17,Oats,1,0.8,United States,3,Oats,14,"Exports, market year",1,Million bushels,2002,3,Annual,19,MY Jun-May,2.605
+2,Supply and use,17,Oats,1,0.8,United States,3,Oats,14,"Exports, market year",1,Million bushels,2003,3,Annual,19,MY Jun-May,2.468
+2,Supply and use,17,Oats,1,0.8,United States,3,Oats,14,"Exports, market year",1,Million bushels,2004,3,Annual,19,MY Jun-May,2.679
+2,Supply and use,17,Oats,1,0.8,United States,3,Oats,14,"Exports, market year",1,Million bushels,2005,3,Annual,19,MY Jun-May,2.09
+2,Supply and use,17,Oats,1,0.8,United States,3,Oats,14,"Exports, market year",1,Million bushels,2006,3,Annual,19,MY Jun-May,2.593
+2,Supply and use,17,Oats,1,0.8,United States,3,Oats,14,"Exports, market year",1,Million bushels,2007,3,Annual,19,MY Jun-May,2.908
+2,Supply and use,17,Oats,1,0.8,United States,3,Oats,14,"Exports, market year",1,Million bushels,2008,3,Annual,19,MY Jun-May,3.344
+2,Supply and use,17,Oats,1,0.8,United States,3,Oats,14,"Exports, market year",1,Million bushels,2009,3,Annual,19,MY Jun-May,2.166
+2,Supply and use,17,Oats,1,0.8,United States,3,Oats,14,"Exports, market year",1,Million bushels,2010,3,Annual,19,MY Jun-May,2.853
+2,Supply and use,17,Oats,1,0.8,United States,3,Oats,14,"Exports, market year",1,Million bushels,2011,3,Annual,19,MY Jun-May,2.425
+2,Supply and use,17,Oats,1,0.8,United States,3,Oats,14,"Exports, market year",1,Million bushels,2012,3,Annual,19,MY Jun-May,1.355
+2,Supply and use,17,Oats,1,0.8,United States,3,Oats,14,"Exports, market year",1,Million bushels,2013,3,Annual,19,MY Jun-May,1.582
+2,Supply and use,17,Oats,1,0.8,United States,3,Oats,14,"Exports, market year",1,Million bushels,2014,3,Annual,19,MY Jun-May,1.843
+2,Supply and use,17,Oats,1,0.8,United States,3,Oats,14,"Exports, market year",1,Million bushels,2015,3,Annual,19,MY Jun-May,1.978
+2,Supply and use,17,Oats,1,0.8,United States,3,Oats,14,"Exports, market year",1,Million bushels,2016,3,Annual,19,MY Jun-May,3.425
+2,Supply and use,17,Oats,1,0.8,United States,3,Oats,14,"Exports, market year",1,Million bushels,2017,3,Annual,19,MY Jun-May,2.414
+2,Supply and use,17,Oats,1,0.8,United States,3,Oats,14,"Exports, market year",1,Million bushels,2018,3,Annual,19,MY Jun-May,1.699
+2,Supply and use,17,Oats,1,0.8,United States,3,Oats,14,"Exports, market year",1,Million bushels,2019,3,Annual,19,MY Jun-May,2
+2,Supply and use,12,Corn,1,0.8,United States,2,Corn,14,"Exports, market year",1,Million bushels,1975,3,Annual,31,MY Sep-Aug,1664.494
+2,Supply and use,12,Corn,1,0.8,United States,2,Corn,14,"Exports, market year",1,Million bushels,1976,3,Annual,31,MY Sep-Aug,1645.119
+2,Supply and use,12,Corn,1,0.8,United States,2,Corn,14,"Exports, market year",1,Million bushels,1977,3,Annual,31,MY Sep-Aug,1896.396
+2,Supply and use,12,Corn,1,0.8,United States,2,Corn,14,"Exports, market year",1,Million bushels,1978,3,Annual,31,MY Sep-Aug,2113.117
+2,Supply and use,12,Corn,1,0.8,United States,2,Corn,14,"Exports, market year",1,Million bushels,1979,3,Annual,31,MY Sep-Aug,2401.517
+2,Supply and use,12,Corn,1,0.8,United States,2,Corn,14,"Exports, market year",1,Million bushels,1980,3,Annual,31,MY Sep-Aug,2391.106
+2,Supply and use,12,Corn,1,0.8,United States,2,Corn,14,"Exports, market year",1,Million bushels,1981,3,Annual,31,MY Sep-Aug,1996.761
+2,Supply and use,12,Corn,1,0.8,United States,2,Corn,14,"Exports, market year",1,Million bushels,1982,3,Annual,31,MY Sep-Aug,1821.345
+2,Supply and use,12,Corn,1,0.8,United States,2,Corn,14,"Exports, market year",1,Million bushels,1983,3,Annual,31,MY Sep-Aug,1886.397
+2,Supply and use,12,Corn,1,0.8,United States,2,Corn,14,"Exports, market year",1,Million bushels,1984,3,Annual,31,MY Sep-Aug,1850.251
+2,Supply and use,12,Corn,1,0.8,United States,2,Corn,14,"Exports, market year",1,Million bushels,1985,3,Annual,31,MY Sep-Aug,1227.332
+2,Supply and use,12,Corn,1,0.8,United States,2,Corn,14,"Exports, market year",1,Million bushels,1986,3,Annual,31,MY Sep-Aug,1492.471
+2,Supply and use,12,Corn,1,0.8,United States,2,Corn,14,"Exports, market year",1,Million bushels,1987,3,Annual,31,MY Sep-Aug,1716.425
+2,Supply and use,12,Corn,1,0.8,United States,2,Corn,14,"Exports, market year",1,Million bushels,1988,3,Annual,31,MY Sep-Aug,2028.453
+2,Supply and use,12,Corn,1,0.8,United States,2,Corn,14,"Exports, market year",1,Million bushels,1989,3,Annual,31,MY Sep-Aug,2367.303
+2,Supply and use,12,Corn,1,0.8,United States,2,Corn,14,"Exports, market year",1,Million bushels,1990,3,Annual,31,MY Sep-Aug,1726.631
+2,Supply and use,12,Corn,1,0.8,United States,2,Corn,14,"Exports, market year",1,Million bushels,1991,3,Annual,31,MY Sep-Aug,1583.917
+2,Supply and use,12,Corn,1,0.8,United States,2,Corn,14,"Exports, market year",1,Million bushels,1992,3,Annual,31,MY Sep-Aug,1663.278
+2,Supply and use,12,Corn,1,0.8,United States,2,Corn,14,"Exports, market year",1,Million bushels,1993,3,Annual,31,MY Sep-Aug,1328.322
+2,Supply and use,12,Corn,1,0.8,United States,2,Corn,14,"Exports, market year",1,Million bushels,1994,3,Annual,31,MY Sep-Aug,2177.482
+2,Supply and use,12,Corn,1,0.8,United States,2,Corn,14,"Exports, market year",1,Million bushels,1995,3,Annual,31,MY Sep-Aug,2227.824
+2,Supply and use,12,Corn,1,0.8,United States,2,Corn,14,"Exports, market year",1,Million bushels,1996,3,Annual,31,MY Sep-Aug,1797.369
+2,Supply and use,12,Corn,1,0.8,United States,2,Corn,14,"Exports, market year",1,Million bushels,1997,3,Annual,31,MY Sep-Aug,1504.426
+2,Supply and use,12,Corn,1,0.8,United States,2,Corn,14,"Exports, market year",1,Million bushels,1998,3,Annual,31,MY Sep-Aug,1984.193
+2,Supply and use,12,Corn,1,0.8,United States,2,Corn,14,"Exports, market year",1,Million bushels,1999,3,Annual,31,MY Sep-Aug,1936.566
+2,Supply and use,12,Corn,1,0.8,United States,2,Corn,14,"Exports, market year",1,Million bushels,2000,3,Annual,31,MY Sep-Aug,1941.348
+2,Supply and use,12,Corn,1,0.8,United States,2,Corn,14,"Exports, market year",1,Million bushels,2001,3,Annual,31,MY Sep-Aug,1904.768
+2,Supply and use,12,Corn,1,0.8,United States,2,Corn,14,"Exports, market year",1,Million bushels,2002,3,Annual,31,MY Sep-Aug,1587.887
+2,Supply and use,12,Corn,1,0.8,United States,2,Corn,14,"Exports, market year",1,Million bushels,2003,3,Annual,31,MY Sep-Aug,1899.817
+2,Supply and use,12,Corn,1,0.8,United States,2,Corn,14,"Exports, market year",1,Million bushels,2004,3,Annual,31,MY Sep-Aug,1818.056
+2,Supply and use,12,Corn,1,0.8,United States,2,Corn,14,"Exports, market year",1,Million bushels,2005,3,Annual,31,MY Sep-Aug,2133.811
+2,Supply and use,12,Corn,1,0.8,United States,2,Corn,14,"Exports, market year",1,Million bushels,2006,3,Annual,31,MY Sep-Aug,2125.369
+2,Supply and use,12,Corn,1,0.8,United States,2,Corn,14,"Exports, market year",1,Million bushels,2007,3,Annual,31,MY Sep-Aug,2437.402
+2,Supply and use,12,Corn,1,0.8,United States,2,Corn,14,"Exports, market year",1,Million bushels,2008,3,Annual,31,MY Sep-Aug,1848.947
+2,Supply and use,12,Corn,1,0.8,United States,2,Corn,14,"Exports, market year",1,Million bushels,2009,3,Annual,31,MY Sep-Aug,1979.026
+2,Supply and use,12,Corn,1,0.8,United States,2,Corn,14,"Exports, market year",1,Million bushels,2010,3,Annual,31,MY Sep-Aug,1830.925
+2,Supply and use,12,Corn,1,0.8,United States,2,Corn,14,"Exports, market year",1,Million bushels,2011,3,Annual,31,MY Sep-Aug,1539.157
+2,Supply and use,12,Corn,1,0.8,United States,2,Corn,14,"Exports, market year",1,Million bushels,2012,3,Annual,31,MY Sep-Aug,730.088
+2,Supply and use,12,Corn,1,0.8,United States,2,Corn,14,"Exports, market year",1,Million bushels,2013,3,Annual,31,MY Sep-Aug,1920.783
+2,Supply and use,12,Corn,1,0.8,United States,2,Corn,14,"Exports, market year",1,Million bushels,2014,3,Annual,31,MY Sep-Aug,1866.882
+2,Supply and use,12,Corn,1,0.8,United States,2,Corn,14,"Exports, market year",1,Million bushels,2015,3,Annual,31,MY Sep-Aug,1898.634
+2,Supply and use,9,Barley,2,1.01,World less U.S.,1,Barley,14,"Exports, market year",7,"1,000 metric tons",1960,3,Annual,137,Local Market Year,4444
+2,Supply and use,9,Barley,2,1.01,World less U.S.,1,Barley,14,"Exports, market year",7,"1,000 metric tons",1961,3,Annual,137,Local Market Year,5461
+2,Supply and use,9,Barley,2,1.01,World less U.S.,1,Barley,14,"Exports, market year",7,"1,000 metric tons",1962,3,Annual,137,Local Market Year,3753
+2,Supply and use,9,Barley,2,1.01,World less U.S.,1,Barley,14,"Exports, market year",7,"1,000 metric tons",1963,3,Annual,137,Local Market Year,6141
+2,Supply and use,9,Barley,2,1.01,World less U.S.,1,Barley,14,"Exports, market year",7,"1,000 metric tons",1964,3,Annual,137,Local Market Year,5834
+2,Supply and use,9,Barley,2,1.01,World less U.S.,1,Barley,14,"Exports, market year",7,"1,000 metric tons",1965,3,Annual,137,Local Market Year,7060
+2,Supply and use,9,Barley,2,1.01,World less U.S.,1,Barley,14,"Exports, market year",7,"1,000 metric tons",1966,3,Annual,137,Local Market Year,5660
+2,Supply and use,9,Barley,2,1.01,World less U.S.,1,Barley,14,"Exports, market year",7,"1,000 metric tons",1967,3,Annual,137,Local Market Year,6279
+2,Supply and use,9,Barley,2,1.01,World less U.S.,1,Barley,14,"Exports, market year",7,"1,000 metric tons",1968,3,Annual,137,Local Market Year,7007
+2,Supply and use,9,Barley,2,1.01,World less U.S.,1,Barley,14,"Exports, market year",7,"1,000 metric tons",1969,3,Annual,137,Local Market Year,8999
+2,Supply and use,9,Barley,2,1.01,World less U.S.,1,Barley,14,"Exports, market year",7,"1,000 metric tons",1970,3,Annual,137,Local Market Year,9581
+2,Supply and use,9,Barley,2,1.01,World less U.S.,1,Barley,14,"Exports, market year",7,"1,000 metric tons",1971,3,Annual,137,Local Market Year,13640
+2,Supply and use,9,Barley,2,1.01,World less U.S.,1,Barley,14,"Exports, market year",7,"1,000 metric tons",1972,3,Annual,137,Local Market Year,10719
+2,Supply and use,9,Barley,2,1.01,World less U.S.,1,Barley,14,"Exports, market year",7,"1,000 metric tons",1973,3,Annual,137,Local Market Year,6286
+2,Supply and use,9,Barley,2,1.01,World less U.S.,1,Barley,14,"Exports, market year",7,"1,000 metric tons",1974,3,Annual,137,Local Market Year,6730
+2,Supply and use,9,Barley,2,1.01,World less U.S.,1,Barley,14,"Exports, market year",7,"1,000 metric tons",1975,3,Annual,137,Local Market Year,9100
+2,Supply and use,9,Barley,2,1.01,World less U.S.,1,Barley,14,"Exports, market year",7,"1,000 metric tons",1976,3,Annual,137,Local Market Year,9241
+2,Supply and use,9,Barley,2,1.01,World less U.S.,1,Barley,14,"Exports, market year",7,"1,000 metric tons",1977,3,Annual,137,Local Market Year,8540
+2,Supply and use,9,Barley,2,1.01,World less U.S.,1,Barley,14,"Exports, market year",7,"1,000 metric tons",1978,3,Annual,137,Local Market Year,9766
+2,Supply and use,9,Barley,2,1.01,World less U.S.,1,Barley,14,"Exports, market year",7,"1,000 metric tons",1979,3,Annual,137,Local Market Year,9255
+2,Supply and use,9,Barley,2,1.01,World less U.S.,1,Barley,14,"Exports, market year",7,"1,000 metric tons",1980,3,Annual,137,Local Market Year,11257
+2,Supply and use,9,Barley,2,1.01,World less U.S.,1,Barley,14,"Exports, market year",7,"1,000 metric tons",1981,3,Annual,137,Local Market Year,12385
+2,Supply and use,12,Corn,2,1.01,World less U.S.,2,Corn,14,"Exports, market year",7,"1,000 metric tons",1960,3,Annual,137,Local Market Year,7034
+2,Supply and use,12,Corn,2,1.01,World less U.S.,2,Corn,14,"Exports, market year",7,"1,000 metric tons",1961,3,Annual,137,Local Market Year,9665
+2,Supply and use,12,Corn,2,1.01,World less U.S.,2,Corn,14,"Exports, market year",7,"1,000 metric tons",1962,3,Annual,137,Local Market Year,10007
+2,Supply and use,12,Corn,2,1.01,World less U.S.,2,Corn,14,"Exports, market year",7,"1,000 metric tons",1963,3,Annual,137,Local Market Year,9786
+2,Supply and use,12,Corn,2,1.01,World less U.S.,2,Corn,14,"Exports, market year",7,"1,000 metric tons",1964,3,Annual,137,Local Market Year,9705
+2,Supply and use,12,Corn,2,1.01,World less U.S.,2,Corn,14,"Exports, market year",7,"1,000 metric tons",1965,3,Annual,137,Local Market Year,11335
+2,Supply and use,12,Corn,2,1.01,World less U.S.,2,Corn,14,"Exports, market year",7,"1,000 metric tons",1966,3,Annual,137,Local Market Year,14882
+2,Supply and use,12,Corn,2,1.01,World less U.S.,2,Corn,14,"Exports, market year",7,"1,000 metric tons",1967,3,Annual,137,Local Market Year,13661
+2,Supply and use,12,Corn,2,1.01,World less U.S.,2,Corn,14,"Exports, market year",7,"1,000 metric tons",1968,3,Annual,137,Local Market Year,13650
+2,Supply and use,12,Corn,2,1.01,World less U.S.,2,Corn,14,"Exports, market year",7,"1,000 metric tons",1969,3,Annual,137,Local Market Year,15613
+2,Supply and use,12,Corn,2,1.01,World less U.S.,2,Corn,14,"Exports, market year",7,"1,000 metric tons",1970,3,Annual,137,Local Market Year,19302
+2,Supply and use,12,Corn,2,1.01,World less U.S.,2,Corn,14,"Exports, market year",7,"1,000 metric tons",1971,3,Annual,137,Local Market Year,15968
+2,Supply and use,12,Corn,2,1.01,World less U.S.,2,Corn,14,"Exports, market year",7,"1,000 metric tons",1972,3,Annual,137,Local Market Year,8956
+2,Supply and use,12,Corn,2,1.01,World less U.S.,2,Corn,14,"Exports, market year",7,"1,000 metric tons",1973,3,Annual,137,Local Market Year,16329
+2,Supply and use,12,Corn,2,1.01,World less U.S.,2,Corn,14,"Exports, market year",7,"1,000 metric tons",1974,3,Annual,137,Local Market Year,13031
+2,Supply and use,12,Corn,2,1.01,World less U.S.,2,Corn,14,"Exports, market year",7,"1,000 metric tons",1975,3,Annual,137,Local Market Year,13075
+2,Supply and use,12,Corn,2,1.01,World less U.S.,2,Corn,14,"Exports, market year",7,"1,000 metric tons",1976,3,Annual,137,Local Market Year,13946
+2,Supply and use,12,Corn,2,1.01,World less U.S.,2,Corn,14,"Exports, market year",7,"1,000 metric tons",1977,3,Annual,137,Local Market Year,12820
+2,Supply and use,12,Corn,2,1.01,World less U.S.,2,Corn,14,"Exports, market year",7,"1,000 metric tons",1978,3,Annual,137,Local Market Year,12412
+2,Supply and use,12,Corn,2,1.01,World less U.S.,2,Corn,14,"Exports, market year",7,"1,000 metric tons",1979,3,Annual,137,Local Market Year,11392
+2,Supply and use,12,Corn,2,1.01,World less U.S.,2,Corn,14,"Exports, market year",7,"1,000 metric tons",1980,3,Annual,137,Local Market Year,19571
+2,Supply and use,12,Corn,2,1.01,World less U.S.,2,Corn,14,"Exports, market year",7,"1,000 metric tons",1981,3,Annual,137,Local Market Year,17363
+2,Supply and use,12,Corn,2,1.01,World less U.S.,2,Corn,14,"Exports, market year",7,"1,000 metric tons",1982,3,Annual,137,Local Market Year,13271
+2,Supply and use,12,Corn,2,1.01,World less U.S.,2,Corn,14,"Exports, market year",7,"1,000 metric tons",1983,3,Annual,137,Local Market Year,13038
+2,Supply and use,12,Corn,2,1.01,World less U.S.,2,Corn,14,"Exports, market year",7,"1,000 metric tons",1984,3,Annual,137,Local Market Year,20009
+2,Supply and use,12,Corn,2,1.01,World less U.S.,2,Corn,14,"Exports, market year",7,"1,000 metric tons",1985,3,Annual,137,Local Market Year,24126
+2,Supply and use,12,Corn,2,1.01,World less U.S.,2,Corn,14,"Exports, market year",7,"1,000 metric tons",1986,3,Annual,137,Local Market Year,17166
+2,Supply and use,12,Corn,2,1.01,World less U.S.,2,Corn,14,"Exports, market year",7,"1,000 metric tons",1987,3,Annual,137,Local Market Year,15529
+2,Supply and use,12,Corn,2,1.01,World less U.S.,2,Corn,14,"Exports, market year",7,"1,000 metric tons",1988,3,Annual,137,Local Market Year,16936
+2,Supply and use,12,Corn,2,1.01,World less U.S.,2,Corn,14,"Exports, market year",7,"1,000 metric tons",1989,3,Annual,137,Local Market Year,12044
+2,Supply and use,12,Corn,2,1.01,World less U.S.,2,Corn,14,"Exports, market year",7,"1,000 metric tons",1990,3,Annual,137,Local Market Year,14531
+2,Supply and use,12,Corn,2,1.01,World less U.S.,2,Corn,14,"Exports, market year",7,"1,000 metric tons",1991,3,Annual,137,Local Market Year,21820
+2,Supply and use,12,Corn,2,1.01,World less U.S.,2,Corn,14,"Exports, market year",7,"1,000 metric tons",1992,3,Annual,137,Local Market Year,21014
+2,Supply and use,12,Corn,2,1.01,World less U.S.,2,Corn,14,"Exports, market year",7,"1,000 metric tons",1993,3,Annual,137,Local Market Year,25120
+2,Supply and use,12,Corn,2,1.01,World less U.S.,2,Corn,14,"Exports, market year",7,"1,000 metric tons",1994,3,Annual,137,Local Market Year,10815
+2,Supply and use,12,Corn,2,1.01,World less U.S.,2,Corn,14,"Exports, market year",7,"1,000 metric tons",1995,3,Annual,137,Local Market Year,13833
+2,Supply and use,12,Corn,2,1.01,World less U.S.,2,Corn,14,"Exports, market year",7,"1,000 metric tons",1996,3,Annual,137,Local Market Year,19917
+2,Supply and use,12,Corn,2,1.01,World less U.S.,2,Corn,14,"Exports, market year",7,"1,000 metric tons",1997,3,Annual,137,Local Market Year,25133
+2,Supply and use,12,Corn,2,1.01,World less U.S.,2,Corn,14,"Exports, market year",7,"1,000 metric tons",1998,3,Annual,137,Local Market Year,16537
+2,Supply and use,12,Corn,2,1.01,World less U.S.,2,Corn,14,"Exports, market year",7,"1,000 metric tons",1999,3,Annual,137,Local Market Year,26350
+2,Supply and use,12,Corn,2,1.01,World less U.S.,2,Corn,14,"Exports, market year",7,"1,000 metric tons",2000,3,Annual,137,Local Market Year,27409
+2,Supply and use,12,Corn,2,1.01,World less U.S.,2,Corn,14,"Exports, market year",7,"1,000 metric tons",2001,3,Annual,137,Local Market Year,26196
+2,Supply and use,12,Corn,2,1.01,World less U.S.,2,Corn,14,"Exports, market year",7,"1,000 metric tons",2002,3,Annual,137,Local Market Year,36412
+2,Supply and use,12,Corn,2,1.01,World less U.S.,2,Corn,14,"Exports, market year",7,"1,000 metric tons",2003,3,Annual,137,Local Market Year,28877
+2,Supply and use,12,Corn,2,1.01,World less U.S.,2,Corn,14,"Exports, market year",7,"1,000 metric tons",2004,3,Annual,137,Local Market Year,31478
+2,Supply and use,12,Corn,2,1.01,World less U.S.,2,Corn,14,"Exports, market year",7,"1,000 metric tons",2005,3,Annual,137,Local Market Year,26770
+2,Supply and use,12,Corn,2,1.01,World less U.S.,2,Corn,14,"Exports, market year",7,"1,000 metric tons",2006,3,Annual,137,Local Market Year,39946
+2,Supply and use,12,Corn,2,1.01,World less U.S.,2,Corn,14,"Exports, market year",7,"1,000 metric tons",2007,3,Annual,137,Local Market Year,37004
+2,Supply and use,12,Corn,2,1.01,World less U.S.,2,Corn,14,"Exports, market year",7,"1,000 metric tons",2008,3,Annual,137,Local Market Year,36756
+2,Supply and use,12,Corn,2,1.01,World less U.S.,2,Corn,14,"Exports, market year",7,"1,000 metric tons",2009,3,Annual,137,Local Market Year,46348
+2,Supply and use,12,Corn,2,1.01,World less U.S.,2,Corn,14,"Exports, market year",7,"1,000 metric tons",2010,3,Annual,137,Local Market Year,45049
+2,Supply and use,12,Corn,2,1.01,World less U.S.,2,Corn,14,"Exports, market year",7,"1,000 metric tons",2011,3,Annual,137,Local Market Year,77852
+2,Supply and use,12,Corn,2,1.01,World less U.S.,2,Corn,14,"Exports, market year",7,"1,000 metric tons",2012,3,Annual,137,Local Market Year,76828
+2,Supply and use,12,Corn,2,1.01,World less U.S.,2,Corn,14,"Exports, market year",7,"1,000 metric tons",2013,3,Annual,137,Local Market Year,82617
+2,Supply and use,12,Corn,2,1.01,World less U.S.,2,Corn,14,"Exports, market year",7,"1,000 metric tons",2014,3,Annual,137,Local Market Year,94970
+2,Supply and use,12,Corn,2,1.01,World less U.S.,2,Corn,14,"Exports, market year",7,"1,000 metric tons",2015,3,Annual,137,Local Market Year,71927
+2,Supply and use,12,Corn,2,1.01,World less U.S.,2,Corn,14,"Exports, market year",7,"1,000 metric tons",2016,3,Annual,137,Local Market Year,102247
+2,Supply and use,12,Corn,2,1.01,World less U.S.,2,Corn,14,"Exports, market year",7,"1,000 metric tons",2017,3,Annual,137,Local Market Year,86652
+2,Supply and use,12,Corn,2,1.01,World less U.S.,2,Corn,14,"Exports, market year",7,"1,000 metric tons",2018,3,Annual,137,Local Market Year,123869
+2,Supply and use,12,Corn,2,1.01,World less U.S.,2,Corn,14,"Exports, market year",7,"1,000 metric tons",2019,3,Annual,137,Local Market Year,117830
+2,Supply and use,9,Barley,2,1.01,World less U.S.,1,Barley,14,"Exports, market year",7,"1,000 metric tons",1982,3,Annual,137,Local Market Year,10893
+2,Supply and use,9,Barley,2,1.01,World less U.S.,1,Barley,14,"Exports, market year",7,"1,000 metric tons",1983,3,Annual,137,Local Market Year,13796
+2,Supply and use,9,Barley,2,1.01,World less U.S.,1,Barley,14,"Exports, market year",7,"1,000 metric tons",1984,3,Annual,137,Local Market Year,16024
+2,Supply and use,9,Barley,2,1.01,World less U.S.,1,Barley,14,"Exports, market year",7,"1,000 metric tons",1985,3,Annual,137,Local Market Year,15896
+2,Supply and use,9,Barley,2,1.01,World less U.S.,1,Barley,14,"Exports, market year",7,"1,000 metric tons",1986,3,Annual,137,Local Market Year,16972
+2,Supply and use,9,Barley,2,1.01,World less U.S.,1,Barley,14,"Exports, market year",7,"1,000 metric tons",1987,3,Annual,137,Local Market Year,16950
+2,Supply and use,9,Barley,2,1.01,World less U.S.,1,Barley,14,"Exports, market year",7,"1,000 metric tons",1988,3,Annual,137,Local Market Year,17203
+2,Supply and use,9,Barley,2,1.01,World less U.S.,1,Barley,14,"Exports, market year",7,"1,000 metric tons",1989,3,Annual,137,Local Market Year,16571
+2,Supply and use,9,Barley,2,1.01,World less U.S.,1,Barley,14,"Exports, market year",7,"1,000 metric tons",1990,3,Annual,137,Local Market Year,18595
+2,Supply and use,9,Barley,2,1.01,World less U.S.,1,Barley,14,"Exports, market year",7,"1,000 metric tons",1991,3,Annual,137,Local Market Year,16967
+2,Supply and use,9,Barley,2,1.01,World less U.S.,1,Barley,14,"Exports, market year",7,"1,000 metric tons",1992,3,Annual,137,Local Market Year,15791
+2,Supply and use,9,Barley,2,1.01,World less U.S.,1,Barley,14,"Exports, market year",7,"1,000 metric tons",1993,3,Annual,137,Local Market Year,16902
+2,Supply and use,9,Barley,2,1.01,World less U.S.,1,Barley,14,"Exports, market year",7,"1,000 metric tons",1994,3,Annual,137,Local Market Year,15170
+2,Supply and use,9,Barley,2,1.01,World less U.S.,1,Barley,14,"Exports, market year",7,"1,000 metric tons",1995,3,Annual,137,Local Market Year,12092
+2,Supply and use,9,Barley,2,1.01,World less U.S.,1,Barley,14,"Exports, market year",7,"1,000 metric tons",1996,3,Annual,137,Local Market Year,17150
+2,Supply and use,9,Barley,2,1.01,World less U.S.,1,Barley,14,"Exports, market year",7,"1,000 metric tons",1997,3,Annual,137,Local Market Year,11533
+2,Supply and use,9,Barley,2,1.01,World less U.S.,1,Barley,14,"Exports, market year",7,"1,000 metric tons",1998,3,Annual,137,Local Market Year,16222
+2,Supply and use,9,Barley,2,1.01,World less U.S.,1,Barley,14,"Exports, market year",7,"1,000 metric tons",1999,3,Annual,137,Local Market Year,15805
+2,Supply and use,9,Barley,2,1.01,World less U.S.,1,Barley,14,"Exports, market year",7,"1,000 metric tons",2000,3,Annual,137,Local Market Year,15465
+2,Supply and use,9,Barley,2,1.01,World less U.S.,1,Barley,14,"Exports, market year",7,"1,000 metric tons",2001,3,Annual,137,Local Market Year,16711
+2,Supply and use,9,Barley,2,1.01,World less U.S.,1,Barley,14,"Exports, market year",7,"1,000 metric tons",2002,3,Annual,137,Local Market Year,15587
+2,Supply and use,9,Barley,2,1.01,World less U.S.,1,Barley,14,"Exports, market year",7,"1,000 metric tons",2003,3,Annual,137,Local Market Year,15950
+2,Supply and use,9,Barley,2,1.01,World less U.S.,1,Barley,14,"Exports, market year",7,"1,000 metric tons",2004,3,Annual,137,Local Market Year,14540
+2,Supply and use,9,Barley,2,1.01,World less U.S.,1,Barley,14,"Exports, market year",7,"1,000 metric tons",2005,3,Annual,137,Local Market Year,17600
+2,Supply and use,9,Barley,2,1.01,World less U.S.,1,Barley,14,"Exports, market year",7,"1,000 metric tons",2006,3,Annual,137,Local Market Year,14913
+2,Supply and use,9,Barley,2,1.01,World less U.S.,1,Barley,14,"Exports, market year",7,"1,000 metric tons",2007,3,Annual,137,Local Market Year,14531
+2,Supply and use,9,Barley,2,1.01,World less U.S.,1,Barley,14,"Exports, market year",7,"1,000 metric tons",2008,3,Annual,137,Local Market Year,19710
+2,Supply and use,9,Barley,2,1.01,World less U.S.,1,Barley,14,"Exports, market year",7,"1,000 metric tons",2009,3,Annual,137,Local Market Year,17017
+2,Supply and use,9,Barley,2,1.01,World less U.S.,1,Barley,14,"Exports, market year",7,"1,000 metric tons",2010,3,Annual,137,Local Market Year,15751
+2,Supply and use,9,Barley,2,1.01,World less U.S.,1,Barley,14,"Exports, market year",7,"1,000 metric tons",2011,3,Annual,137,Local Market Year,20207
+2,Supply and use,9,Barley,2,1.01,World less U.S.,1,Barley,14,"Exports, market year",7,"1,000 metric tons",2012,3,Annual,137,Local Market Year,19437
+2,Supply and use,9,Barley,2,1.01,World less U.S.,1,Barley,14,"Exports, market year",7,"1,000 metric tons",2013,3,Annual,137,Local Market Year,22546
+2,Supply and use,9,Barley,2,1.01,World less U.S.,1,Barley,14,"Exports, market year",7,"1,000 metric tons",2014,3,Annual,137,Local Market Year,28719
+2,Supply and use,9,Barley,2,1.01,World less U.S.,1,Barley,14,"Exports, market year",7,"1,000 metric tons",2015,3,Annual,137,Local Market Year,30585
+2,Supply and use,9,Barley,2,1.01,World less U.S.,1,Barley,14,"Exports, market year",7,"1,000 metric tons",2016,3,Annual,137,Local Market Year,28251
+2,Supply and use,9,Barley,2,1.01,World less U.S.,1,Barley,14,"Exports, market year",7,"1,000 metric tons",2017,3,Annual,137,Local Market Year,27805
+2,Supply and use,9,Barley,2,1.01,World less U.S.,1,Barley,14,"Exports, market year",7,"1,000 metric tons",2018,3,Annual,137,Local Market Year,24865
+2,Supply and use,9,Barley,2,1.01,World less U.S.,1,Barley,14,"Exports, market year",7,"1,000 metric tons",2019,3,Annual,137,Local Market Year,28038
+2,Supply and use,20,Sorghum,2,1.01,World less U.S.,4,Sorghum,14,"Exports, market year",7,"1,000 metric tons",1960,3,Annual,137,Local Market Year,687
+2,Supply and use,20,Sorghum,2,1.01,World less U.S.,4,Sorghum,14,"Exports, market year",7,"1,000 metric tons",1961,3,Annual,137,Local Market Year,662
+2,Supply and use,20,Sorghum,2,1.01,World less U.S.,4,Sorghum,14,"Exports, market year",7,"1,000 metric tons",1962,3,Annual,137,Local Market Year,935
+2,Supply and use,20,Sorghum,2,1.01,World less U.S.,4,Sorghum,14,"Exports, market year",7,"1,000 metric tons",1963,3,Annual,137,Local Market Year,1041
+2,Supply and use,20,Sorghum,2,1.01,World less U.S.,4,Sorghum,14,"Exports, market year",7,"1,000 metric tons",1964,3,Annual,137,Local Market Year,570
+2,Supply and use,20,Sorghum,2,1.01,World less U.S.,4,Sorghum,14,"Exports, market year",7,"1,000 metric tons",1965,3,Annual,137,Local Market Year,1553
+2,Supply and use,20,Sorghum,2,1.01,World less U.S.,4,Sorghum,14,"Exports, market year",7,"1,000 metric tons",1966,3,Annual,137,Local Market Year,973
+2,Supply and use,20,Sorghum,2,1.01,World less U.S.,4,Sorghum,14,"Exports, market year",7,"1,000 metric tons",1967,3,Annual,137,Local Market Year,1624
+2,Supply and use,20,Sorghum,2,1.01,World less U.S.,4,Sorghum,14,"Exports, market year",7,"1,000 metric tons",1968,3,Annual,137,Local Market Year,1955
+2,Supply and use,20,Sorghum,2,1.01,World less U.S.,4,Sorghum,14,"Exports, market year",7,"1,000 metric tons",1969,3,Annual,137,Local Market Year,2932
+2,Supply and use,20,Sorghum,2,1.01,World less U.S.,4,Sorghum,14,"Exports, market year",7,"1,000 metric tons",1970,3,Annual,137,Local Market Year,4267
+2,Supply and use,20,Sorghum,2,1.01,World less U.S.,4,Sorghum,14,"Exports, market year",7,"1,000 metric tons",1971,3,Annual,137,Local Market Year,1915
+2,Supply and use,20,Sorghum,2,1.01,World less U.S.,4,Sorghum,14,"Exports, market year",7,"1,000 metric tons",1972,3,Annual,137,Local Market Year,3238
+2,Supply and use,20,Sorghum,2,1.01,World less U.S.,4,Sorghum,14,"Exports, market year",7,"1,000 metric tons",1973,3,Annual,137,Local Market Year,4641
+2,Supply and use,20,Sorghum,2,1.01,World less U.S.,4,Sorghum,14,"Exports, market year",7,"1,000 metric tons",1974,3,Annual,137,Local Market Year,3794
+2,Supply and use,20,Sorghum,2,1.01,World less U.S.,4,Sorghum,14,"Exports, market year",7,"1,000 metric tons",1975,3,Annual,137,Local Market Year,4861
+2,Supply and use,20,Sorghum,2,1.01,World less U.S.,4,Sorghum,14,"Exports, market year",7,"1,000 metric tons",1976,3,Annual,137,Local Market Year,5213
+2,Supply and use,20,Sorghum,2,1.01,World less U.S.,4,Sorghum,14,"Exports, market year",7,"1,000 metric tons",1977,3,Annual,137,Local Market Year,5716
+2,Supply and use,20,Sorghum,2,1.01,World less U.S.,4,Sorghum,14,"Exports, market year",7,"1,000 metric tons",1978,3,Annual,137,Local Market Year,5156
+2,Supply and use,20,Sorghum,2,1.01,World less U.S.,4,Sorghum,14,"Exports, market year",7,"1,000 metric tons",1979,3,Annual,137,Local Market Year,3044
+2,Supply and use,20,Sorghum,2,1.01,World less U.S.,4,Sorghum,14,"Exports, market year",7,"1,000 metric tons",1980,3,Annual,137,Local Market Year,6568
+2,Supply and use,20,Sorghum,2,1.01,World less U.S.,4,Sorghum,14,"Exports, market year",7,"1,000 metric tons",1981,3,Annual,137,Local Market Year,7214
+2,Supply and use,20,Sorghum,2,1.01,World less U.S.,4,Sorghum,14,"Exports, market year",7,"1,000 metric tons",1982,3,Annual,137,Local Market Year,6159
+2,Supply and use,20,Sorghum,2,1.01,World less U.S.,4,Sorghum,14,"Exports, market year",7,"1,000 metric tons",1983,3,Annual,137,Local Market Year,6183
+2,Supply and use,20,Sorghum,2,1.01,World less U.S.,4,Sorghum,14,"Exports, market year",7,"1,000 metric tons",1984,3,Annual,137,Local Market Year,5218
+2,Supply and use,20,Sorghum,2,1.01,World less U.S.,4,Sorghum,14,"Exports, market year",7,"1,000 metric tons",1985,3,Annual,137,Local Market Year,4195
+2,Supply and use,20,Sorghum,2,1.01,World less U.S.,4,Sorghum,14,"Exports, market year",7,"1,000 metric tons",1986,3,Annual,137,Local Market Year,2819
+2,Supply and use,20,Sorghum,2,1.01,World less U.S.,4,Sorghum,14,"Exports, market year",7,"1,000 metric tons",1987,3,Annual,137,Local Market Year,2460
+2,Supply and use,20,Sorghum,2,1.01,World less U.S.,4,Sorghum,14,"Exports, market year",7,"1,000 metric tons",1988,3,Annual,137,Local Market Year,2318
+2,Supply and use,20,Sorghum,2,1.01,World less U.S.,4,Sorghum,14,"Exports, market year",7,"1,000 metric tons",1989,3,Annual,137,Local Market Year,1597
+2,Supply and use,20,Sorghum,2,1.01,World less U.S.,4,Sorghum,14,"Exports, market year",7,"1,000 metric tons",1990,3,Annual,137,Local Market Year,1985
+2,Supply and use,20,Sorghum,2,1.01,World less U.S.,4,Sorghum,14,"Exports, market year",7,"1,000 metric tons",1991,3,Annual,137,Local Market Year,1875
+2,Supply and use,20,Sorghum,2,1.01,World less U.S.,4,Sorghum,14,"Exports, market year",7,"1,000 metric tons",1992,3,Annual,137,Local Market Year,2096
+2,Supply and use,20,Sorghum,2,1.01,World less U.S.,4,Sorghum,14,"Exports, market year",7,"1,000 metric tons",1993,3,Annual,137,Local Market Year,1589
+2,Supply and use,20,Sorghum,2,1.01,World less U.S.,4,Sorghum,14,"Exports, market year",7,"1,000 metric tons",1994,3,Annual,137,Local Market Year,752
+2,Supply and use,20,Sorghum,2,1.01,World less U.S.,4,Sorghum,14,"Exports, market year",7,"1,000 metric tons",1995,3,Annual,137,Local Market Year,1661
+2,Supply and use,20,Sorghum,2,1.01,World less U.S.,4,Sorghum,14,"Exports, market year",7,"1,000 metric tons",1996,3,Annual,137,Local Market Year,1197
+2,Supply and use,20,Sorghum,2,1.01,World less U.S.,4,Sorghum,14,"Exports, market year",7,"1,000 metric tons",1997,3,Annual,137,Local Market Year,1593
+2,Supply and use,20,Sorghum,2,1.01,World less U.S.,4,Sorghum,14,"Exports, market year",7,"1,000 metric tons",1998,3,Annual,137,Local Market Year,1346
+2,Supply and use,20,Sorghum,2,1.01,World less U.S.,4,Sorghum,14,"Exports, market year",7,"1,000 metric tons",1999,3,Annual,137,Local Market Year,2037
+2,Supply and use,20,Sorghum,2,1.01,World less U.S.,4,Sorghum,14,"Exports, market year",7,"1,000 metric tons",2000,3,Annual,137,Local Market Year,1333
+2,Supply and use,20,Sorghum,2,1.01,World less U.S.,4,Sorghum,14,"Exports, market year",7,"1,000 metric tons",2001,3,Annual,137,Local Market Year,974
+2,Supply and use,20,Sorghum,2,1.01,World less U.S.,4,Sorghum,14,"Exports, market year",7,"1,000 metric tons",2002,3,Annual,137,Local Market Year,1034
+2,Supply and use,20,Sorghum,2,1.01,World less U.S.,4,Sorghum,14,"Exports, market year",7,"1,000 metric tons",2003,3,Annual,137,Local Market Year,1490
+2,Supply and use,20,Sorghum,2,1.01,World less U.S.,4,Sorghum,14,"Exports, market year",7,"1,000 metric tons",2004,3,Annual,137,Local Market Year,728
+2,Supply and use,20,Sorghum,2,1.01,World less U.S.,4,Sorghum,14,"Exports, market year",7,"1,000 metric tons",2005,3,Annual,137,Local Market Year,442
+2,Supply and use,20,Sorghum,2,1.01,World less U.S.,4,Sorghum,14,"Exports, market year",7,"1,000 metric tons",2006,3,Annual,137,Local Market Year,1598
+2,Supply and use,20,Sorghum,2,1.01,World less U.S.,4,Sorghum,14,"Exports, market year",7,"1,000 metric tons",2007,3,Annual,137,Local Market Year,2749
+2,Supply and use,20,Sorghum,2,1.01,World less U.S.,4,Sorghum,14,"Exports, market year",7,"1,000 metric tons",2008,3,Annual,137,Local Market Year,2478
+2,Supply and use,20,Sorghum,2,1.01,World less U.S.,4,Sorghum,14,"Exports, market year",7,"1,000 metric tons",2009,3,Annual,137,Local Market Year,2454
+2,Supply and use,20,Sorghum,2,1.01,World less U.S.,4,Sorghum,14,"Exports, market year",7,"1,000 metric tons",2010,3,Annual,137,Local Market Year,2927
+2,Supply and use,20,Sorghum,2,1.01,World less U.S.,4,Sorghum,14,"Exports, market year",7,"1,000 metric tons",2011,3,Annual,137,Local Market Year,4936
+2,Supply and use,20,Sorghum,2,1.01,World less U.S.,4,Sorghum,14,"Exports, market year",7,"1,000 metric tons",2012,3,Annual,137,Local Market Year,3613
+2,Supply and use,20,Sorghum,2,1.01,World less U.S.,4,Sorghum,14,"Exports, market year",7,"1,000 metric tons",2013,3,Annual,137,Local Market Year,2326
+2,Supply and use,20,Sorghum,2,1.01,World less U.S.,4,Sorghum,14,"Exports, market year",7,"1,000 metric tons",2014,3,Annual,137,Local Market Year,3227
+2,Supply and use,20,Sorghum,2,1.01,World less U.S.,4,Sorghum,14,"Exports, market year",7,"1,000 metric tons",2015,3,Annual,137,Local Market Year,1886
+2,Supply and use,20,Sorghum,2,1.01,World less U.S.,4,Sorghum,14,"Exports, market year",7,"1,000 metric tons",2016,3,Annual,137,Local Market Year,1513
+2,Supply and use,20,Sorghum,2,1.01,World less U.S.,4,Sorghum,14,"Exports, market year",7,"1,000 metric tons",2017,3,Annual,137,Local Market Year,1217
+2,Supply and use,20,Sorghum,2,1.01,World less U.S.,4,Sorghum,14,"Exports, market year",7,"1,000 metric tons",2018,3,Annual,137,Local Market Year,1160
+2,Supply and use,20,Sorghum,2,1.01,World less U.S.,4,Sorghum,14,"Exports, market year",7,"1,000 metric tons",2019,3,Annual,137,Local Market Year,1025
+2,Supply and use,11,Coarse grains,2,1.01,World less U.S.,5,Coarse grains,14,"Exports, market year",7,"1,000 metric tons",1960,3,Annual,137,Local Market Year,14408
+2,Supply and use,11,Coarse grains,2,1.01,World less U.S.,5,Coarse grains,14,"Exports, market year",7,"1,000 metric tons",1961,3,Annual,137,Local Market Year,18765
+2,Supply and use,11,Coarse grains,2,1.01,World less U.S.,5,Coarse grains,14,"Exports, market year",7,"1,000 metric tons",1962,3,Annual,137,Local Market Year,17394
+2,Supply and use,11,Coarse grains,2,1.01,World less U.S.,5,Coarse grains,14,"Exports, market year",7,"1,000 metric tons",1963,3,Annual,137,Local Market Year,19669
+2,Supply and use,11,Coarse grains,2,1.01,World less U.S.,5,Coarse grains,14,"Exports, market year",7,"1,000 metric tons",1964,3,Annual,137,Local Market Year,18092
+2,Supply and use,11,Coarse grains,2,1.01,World less U.S.,5,Coarse grains,14,"Exports, market year",7,"1,000 metric tons",1965,3,Annual,137,Local Market Year,21615
+2,Supply and use,11,Coarse grains,2,1.01,World less U.S.,5,Coarse grains,14,"Exports, market year",7,"1,000 metric tons",1966,3,Annual,137,Local Market Year,23623
+2,Supply and use,11,Coarse grains,2,1.01,World less U.S.,5,Coarse grains,14,"Exports, market year",7,"1,000 metric tons",1967,3,Annual,137,Local Market Year,23522
+2,Supply and use,11,Coarse grains,2,1.01,World less U.S.,5,Coarse grains,14,"Exports, market year",7,"1,000 metric tons",1968,3,Annual,137,Local Market Year,24427
+2,Supply and use,11,Coarse grains,2,1.01,World less U.S.,5,Coarse grains,14,"Exports, market year",7,"1,000 metric tons",1969,3,Annual,137,Local Market Year,29309
+2,Supply and use,11,Coarse grains,2,1.01,World less U.S.,5,Coarse grains,14,"Exports, market year",7,"1,000 metric tons",1970,3,Annual,137,Local Market Year,35670
+2,Supply and use,11,Coarse grains,2,1.01,World less U.S.,5,Coarse grains,14,"Exports, market year",7,"1,000 metric tons",1971,3,Annual,137,Local Market Year,33985
+2,Supply and use,11,Coarse grains,2,1.01,World less U.S.,5,Coarse grains,14,"Exports, market year",7,"1,000 metric tons",1972,3,Annual,137,Local Market Year,25512
+2,Supply and use,11,Coarse grains,2,1.01,World less U.S.,5,Coarse grains,14,"Exports, market year",7,"1,000 metric tons",1973,3,Annual,137,Local Market Year,29079
+2,Supply and use,11,Coarse grains,2,1.01,World less U.S.,5,Coarse grains,14,"Exports, market year",7,"1,000 metric tons",1974,3,Annual,137,Local Market Year,24625
+2,Supply and use,11,Coarse grains,2,1.01,World less U.S.,5,Coarse grains,14,"Exports, market year",7,"1,000 metric tons",1975,3,Annual,137,Local Market Year,28673
+2,Supply and use,11,Coarse grains,2,1.01,World less U.S.,5,Coarse grains,14,"Exports, market year",7,"1,000 metric tons",1976,3,Annual,137,Local Market Year,30009
+2,Supply and use,11,Coarse grains,2,1.01,World less U.S.,5,Coarse grains,14,"Exports, market year",7,"1,000 metric tons",1977,3,Annual,137,Local Market Year,29025
+2,Supply and use,11,Coarse grains,2,1.01,World less U.S.,5,Coarse grains,14,"Exports, market year",7,"1,000 metric tons",1978,3,Annual,137,Local Market Year,29288
+2,Supply and use,11,Coarse grains,2,1.01,World less U.S.,5,Coarse grains,14,"Exports, market year",7,"1,000 metric tons",1979,3,Annual,137,Local Market Year,25826
+2,Supply and use,11,Coarse grains,2,1.01,World less U.S.,5,Coarse grains,14,"Exports, market year",7,"1,000 metric tons",1980,3,Annual,137,Local Market Year,39305
+2,Supply and use,11,Coarse grains,2,1.01,World less U.S.,5,Coarse grains,14,"Exports, market year",7,"1,000 metric tons",1981,3,Annual,137,Local Market Year,38435
+2,Supply and use,11,Coarse grains,2,1.01,World less U.S.,5,Coarse grains,14,"Exports, market year",7,"1,000 metric tons",1982,3,Annual,137,Local Market Year,31614
+2,Supply and use,11,Coarse grains,2,1.01,World less U.S.,5,Coarse grains,14,"Exports, market year",7,"1,000 metric tons",1983,3,Annual,137,Local Market Year,35223
+2,Supply and use,11,Coarse grains,2,1.01,World less U.S.,5,Coarse grains,14,"Exports, market year",7,"1,000 metric tons",1984,3,Annual,137,Local Market Year,43708
+2,Supply and use,11,Coarse grains,2,1.01,World less U.S.,5,Coarse grains,14,"Exports, market year",7,"1,000 metric tons",1985,3,Annual,137,Local Market Year,45785
+2,Supply and use,11,Coarse grains,2,1.01,World less U.S.,5,Coarse grains,14,"Exports, market year",7,"1,000 metric tons",1986,3,Annual,137,Local Market Year,38737
+2,Supply and use,11,Coarse grains,2,1.01,World less U.S.,5,Coarse grains,14,"Exports, market year",7,"1,000 metric tons",1987,3,Annual,137,Local Market Year,37626
+2,Supply and use,11,Coarse grains,2,1.01,World less U.S.,5,Coarse grains,14,"Exports, market year",7,"1,000 metric tons",1988,3,Annual,137,Local Market Year,39023
+2,Supply and use,11,Coarse grains,2,1.01,World less U.S.,5,Coarse grains,14,"Exports, market year",7,"1,000 metric tons",1989,3,Annual,137,Local Market Year,33753
+2,Supply and use,11,Coarse grains,2,1.01,World less U.S.,5,Coarse grains,14,"Exports, market year",7,"1,000 metric tons",1990,3,Annual,137,Local Market Year,38174
+2,Supply and use,11,Coarse grains,2,1.01,World less U.S.,5,Coarse grains,14,"Exports, market year",7,"1,000 metric tons",1991,3,Annual,137,Local Market Year,44254
+2,Supply and use,11,Coarse grains,2,1.01,World less U.S.,5,Coarse grains,14,"Exports, market year",7,"1,000 metric tons",1992,3,Annual,137,Local Market Year,43014
+2,Supply and use,11,Coarse grains,2,1.01,World less U.S.,5,Coarse grains,14,"Exports, market year",7,"1,000 metric tons",1993,3,Annual,137,Local Market Year,47205
+2,Supply and use,11,Coarse grains,2,1.01,World less U.S.,5,Coarse grains,14,"Exports, market year",7,"1,000 metric tons",1994,3,Annual,137,Local Market Year,31077
+2,Supply and use,11,Coarse grains,2,1.01,World less U.S.,5,Coarse grains,14,"Exports, market year",7,"1,000 metric tons",1995,3,Annual,137,Local Market Year,31529
+2,Supply and use,11,Coarse grains,2,1.01,World less U.S.,5,Coarse grains,14,"Exports, market year",7,"1,000 metric tons",1996,3,Annual,137,Local Market Year,41912
+2,Supply and use,11,Coarse grains,2,1.01,World less U.S.,5,Coarse grains,14,"Exports, market year",7,"1,000 metric tons",1997,3,Annual,137,Local Market Year,40934
+2,Supply and use,11,Coarse grains,2,1.01,World less U.S.,5,Coarse grains,14,"Exports, market year",7,"1,000 metric tons",1998,3,Annual,137,Local Market Year,37760
+2,Supply and use,11,Coarse grains,2,1.01,World less U.S.,5,Coarse grains,14,"Exports, market year",7,"1,000 metric tons",1999,3,Annual,137,Local Market Year,48311
+2,Supply and use,11,Coarse grains,2,1.01,World less U.S.,5,Coarse grains,14,"Exports, market year",7,"1,000 metric tons",2000,3,Annual,137,Local Market Year,47490
+2,Supply and use,11,Coarse grains,2,1.01,World less U.S.,5,Coarse grains,14,"Exports, market year",7,"1,000 metric tons",2001,3,Annual,137,Local Market Year,46871
+2,Supply and use,11,Coarse grains,2,1.01,World less U.S.,5,Coarse grains,14,"Exports, market year",7,"1,000 metric tons",2002,3,Annual,137,Local Market Year,56428
+2,Supply and use,11,Coarse grains,2,1.01,World less U.S.,5,Coarse grains,14,"Exports, market year",7,"1,000 metric tons",2003,3,Annual,137,Local Market Year,49300
+2,Supply and use,11,Coarse grains,2,1.01,World less U.S.,5,Coarse grains,14,"Exports, market year",7,"1,000 metric tons",2004,3,Annual,137,Local Market Year,49465
+2,Supply and use,11,Coarse grains,2,1.01,World less U.S.,5,Coarse grains,14,"Exports, market year",7,"1,000 metric tons",2005,3,Annual,137,Local Market Year,47321
+2,Supply and use,11,Coarse grains,2,1.01,World less U.S.,5,Coarse grains,14,"Exports, market year",7,"1,000 metric tons",2006,3,Annual,137,Local Market Year,59250
+2,Supply and use,11,Coarse grains,2,1.01,World less U.S.,5,Coarse grains,14,"Exports, market year",7,"1,000 metric tons",2007,3,Annual,137,Local Market Year,57544
+2,Supply and use,11,Coarse grains,2,1.01,World less U.S.,5,Coarse grains,14,"Exports, market year",7,"1,000 metric tons",2008,3,Annual,137,Local Market Year,61411
+2,Supply and use,11,Coarse grains,2,1.01,World less U.S.,5,Coarse grains,14,"Exports, market year",7,"1,000 metric tons",2009,3,Annual,137,Local Market Year,68161
+2,Supply and use,11,Coarse grains,2,1.01,World less U.S.,5,Coarse grains,14,"Exports, market year",7,"1,000 metric tons",2010,3,Annual,137,Local Market Year,65943
+2,Supply and use,11,Coarse grains,2,1.01,World less U.S.,5,Coarse grains,14,"Exports, market year",7,"1,000 metric tons",2011,3,Annual,137,Local Market Year,105662
+2,Supply and use,11,Coarse grains,2,1.01,World less U.S.,5,Coarse grains,14,"Exports, market year",7,"1,000 metric tons",2012,3,Annual,137,Local Market Year,102380
+2,Supply and use,11,Coarse grains,2,1.01,World less U.S.,5,Coarse grains,14,"Exports, market year",7,"1,000 metric tons",2013,3,Annual,137,Local Market Year,110223
+2,Supply and use,11,Coarse grains,2,1.01,World less U.S.,5,Coarse grains,14,"Exports, market year",7,"1,000 metric tons",2014,3,Annual,137,Local Market Year,129646
+2,Supply and use,11,Coarse grains,2,1.01,World less U.S.,5,Coarse grains,14,"Exports, market year",7,"1,000 metric tons",2015,3,Annual,137,Local Market Year,106843
+2,Supply and use,11,Coarse grains,2,1.01,World less U.S.,5,Coarse grains,14,"Exports, market year",7,"1,000 metric tons",2016,3,Annual,137,Local Market Year,134638
+2,Supply and use,11,Coarse grains,2,1.01,World less U.S.,5,Coarse grains,14,"Exports, market year",7,"1,000 metric tons",2017,3,Annual,137,Local Market Year,118516
+2,Supply and use,11,Coarse grains,2,1.01,World less U.S.,5,Coarse grains,14,"Exports, market year",7,"1,000 metric tons",2018,3,Annual,137,Local Market Year,152917
+2,Supply and use,11,Coarse grains,2,1.01,World less U.S.,5,Coarse grains,14,"Exports, market year",7,"1,000 metric tons",2019,3,Annual,137,Local Market Year,149929
+2,Supply and use,12,Corn,1,0.8,United States,2,Corn,14,"Exports, market year",1,Million bushels,2016,3,Annual,31,MY Sep-Aug,2293.994
+2,Supply and use,12,Corn,1,0.8,United States,2,Corn,14,"Exports, market year",1,Million bushels,2017,3,Annual,31,MY Sep-Aug,2437.526
+2,Supply and use,12,Corn,1,0.8,United States,2,Corn,14,"Exports, market year",1,Million bushels,2018,3,Annual,31,MY Sep-Aug,2060
+2,Supply and use,12,Corn,1,0.8,United States,2,Corn,14,"Exports, market year",1,Million bushels,2019,3,Annual,31,MY Sep-Aug,2050
