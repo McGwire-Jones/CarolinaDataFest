@@ -37,16 +37,11 @@ ggplot(df.filtered, aes(Year_ID, Difference)) + geom_point(aes(col = SC_Unit_Des
 
 
 
-#### Normalizing ####
-normalized <- df
-normalized$Amount <- scale(normalized$Amount)
-mean(normalized$Amount)
-
 #### Time Plots #####
 unique_att <- unique(df$SC_Group_Desc)
 for(att in unique_att){
   temp_df <- df %>% filter(SC_Group_Desc == att)
   print(
     ggplot(temp_df, aes(Year_ID, Amount), group_by(SC_Attribute_Desc)) + 
-      geom_point(aes(col = SC_Attribute_Desc)) + ggtitle(att))
+      geom_point(aes(col = SC_Attribute_Desc)) + ggtitle(att)) + theme(legend.position = "none")
 }
